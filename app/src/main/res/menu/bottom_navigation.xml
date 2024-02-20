@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_home"
+        android:title="@string/home"
+        android:icon="@drawable/home_selector" />
+    <item android:id="@+id/bottom_wallet"
+        android:title="@string/wallet"
+        android:icon="@drawable/wallet_selector"/>
+    <item android:id="@+id/bottom_track"
+        android:title="@string/track"
+        android:icon="@drawable/car_selector"/>
+    <item android:id="@+id/bottom_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/profile_selector"/>
+</menu>

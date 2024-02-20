@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SESSION3</string>
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="track">Track</string>
+    <string name="profile">Profile</string>
+    <string name="hello_ken">Hello Ken</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="enable_dark_mode">Enable dark Mode</string>
+</resources>
